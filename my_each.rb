@@ -1,5 +1,5 @@
-def my_each(array)
+def my_each(collection)
   i = 0 
-  while
+  while i < collection.length
   # code here
 end
