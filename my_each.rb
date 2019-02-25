@@ -7,3 +7,4 @@ def my_each(collection)
     puts "There is nothing"
   end 
 end
+
